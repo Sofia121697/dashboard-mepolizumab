@@ -107,7 +107,7 @@ st.markdown(
 )
 
 
-)
+
 
 # =========================
 # KPIs principales
