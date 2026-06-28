@@ -106,8 +106,7 @@ st.markdown(
     """
 )
 
-st.info(
-    "Nota: la base utilizada es sintética, por lo que los resultados deben interpretarse como un ejercicio académico de analítica de datos."
+
 )
 
 # =========================
