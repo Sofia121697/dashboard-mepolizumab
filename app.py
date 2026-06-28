@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-DATA_PATH = "data/mepolizumab_sellout_cdmx_500.csv"
+DATA_PATH = "mepolizumab_sellout_cdmx_500.csv"
 
 
 @st.cache_data
